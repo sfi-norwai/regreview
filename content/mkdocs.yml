@@ -1,0 +1,47 @@
+site_name: 'Review of AI regulations and governance'
+copyright: Copyright &copy DNV 2022
+title: 'test title'
+
+
+nav: 
+  - 'Introduction': index.md
+  - 'EU': eu.md
+  - 'China': china.md
+  - 'UK': uk.md 
+  - 'New Zealand': nz.md
+  - 'ISO/IEC': iso.md
+  - 'IEEE': ieee.md
+  - 'OECD': oecd.md
+  - 'DNV': dnv.md
+  - 'Definitions': definitions.md
+
+extra_css:  
+#  - https://onedesign.azureedge.net/onedesigncdn/2.8.1/oneDesign.css
+  
+theme:
+  name: material
+  favicon: img/NorwAI_icon.png
+  logo: img/NorwAI_logo.png
+  features:
+    #- navigation.sections
+    - navigation.indexes
+    #- toc.integrate
+    - search.highlight
+
+ 
+  palette:
+    primary: 'white'
+    accent: 'green'
+
+
+
+plugins:
+  - search
+  - bibtex:
+      bib_file: "refs.bib"
+      
+markdown_extensions:
+  - footnotes
+
+extra:
+  generator: false
