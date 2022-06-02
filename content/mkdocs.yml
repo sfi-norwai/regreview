@@ -14,9 +14,6 @@ nav:
   - 'OECD': oecd.md
   - 'DNV': dnv.md
   - 'Definitions': definitions.md
-
-extra_css:  
-#  - https://onedesign.azureedge.net/onedesigncdn/2.8.1/oneDesign.css
   
 theme:
   name: material
