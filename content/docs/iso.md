@@ -35,7 +35,12 @@ TBD (Andreas)
 
 ### ISO/IEC TR 24028:2020, Information technology – Artificial intelligence – Overview of trustworthiness in artificial intelligence
  
-TBD (Meine)
+ISO/IEC TR 24028 surveys topics related to trustworthiness in AI systems, including: 
+* Approaches to establish trust in AI systems.
+* Engineering pitfalls and typical associated threats and risks to AI systems, along with possible mitigation techniques and methods.
+* Approaches to assess and achieve availability, resiliency, reliability, accuracy, safety, security and privacy of AI systems.
+It does not specify levels of trustworthiness.
+
 
 ### ISO/IEC TR 24029-1:2021, Artificial Intelligence (AI) — Assessment of the robustness of neural networks 
 
