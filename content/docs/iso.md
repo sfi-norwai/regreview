@@ -23,7 +23,11 @@ TBD (Andreas)
 
 ### ISO/IEC CD 23894 Information Technology – artificial Intelligence – risk management
 
-TBD (Andreas)
+AI systems can introduce new or emergent risks for an organization, with positive or negative
+consequences on objectives, or changes in the likelihood of existing risks. This document provides guidelines on how organizations that develop, produce, deploy or use products, systems and services that utilize AI can manage risk specifically related to AI. It uses ISO 31000:2018 as a normative reference and is intended to be used in connection with ISO 31000:2018. 
+
+The clause structure of ISO 31000:2018 is mirrored in this document and amended by sub-clauses if needed. The main parts in the document are Clause 5 (principles), clause 5 (framework) and clause 6 (processes). Common AI-related objectives and risk sources are provided in Annex A and Annex B. Annex C provides an example mapping between the risk management processes and an AI system life cycle.
+
 
 ### ISO/IEC TR 24027:2021, Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making
 
