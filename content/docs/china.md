@@ -1,5 +1,26 @@
 # AI governance and standardization in China
 
+## 2018 White Paper
+In 2018, the Chinese government-issued [AI white paper](https://cset.georgetown.edu/publication/artificial-intelligence-standardization-white-paper/) highlights the key factors that should be considered in the standards-setting for AI. 
+Before it starts explaining its framework for standards-setting, the white paper introduces the concept of AI, the current situation and trends, and safety, ethical, and privacy issues related to AI. 
+After summarizing the existing AI standards and regulations, both locally and internationally, their structure of the AI standardization system is elucidated.
+
+The structure consists of six parts: foundation, platforms/support, key technology, products and services, applications, and security/ethics. These can be briefly elaborated as follows.
+* **Foundational standards** target mainly regularizing fundamentals of AI such as terminology, reference architecture, data, and testing and assessment.
+
+* The main focuses of the **platforms/support** component of these standards are big data, cloud computing, intelligent perception and connection, edge computing, smart chips, and AI platforms.
+
+* Once the data is prepared according to foundational standards and necessary supportive technologies are gathered as per platforms/support standards, AI-related technologies should be used in accordance with **key technical standards** to perform humanlike learning from data.
+
+* The intelligent systems made by following the above standards are then embedded into products and used in services, however, should be done in obedience to **products and services standards**. 
+
+* While using these products and services in different application domains, **applications standards** should be followed. Their standards system framework names smart manufacturing, smart logistics, smart cities, smart homes, smart transportation, smart finance, and smart healthcare as potential example applications.
+
+Throughout the entire process from data garnering to final employment of AI products/services in different applications, developers and users should comply with ethical and moral dimensions and uphold societal security and human rights as per **security/ethics standards**.
+
+
+## Eight principles for AI governance and “responsible AI"
+
 In 2019, China's New Generation AI Governance Expert Committee published ["Eight principles for AI governance and “responsible AI”](https://perma.cc/V9FL-H6J7).
 The motivation behind the proposed principles is the healthy development of a new generation of AI.
 If followed, one can ensure that AI is safe/secure, and reliable. 
@@ -21,24 +42,7 @@ The eight principles are as follows:
 
 8.	**Agile governance:** In order to promote the innovative, orderly, and natural development of AI, management mechanisms, governance systems, and recommender practices should be continuously updated. Future risks associated with the advancements in AI should be anticipated and necessary adjustments should be made accordingly.
 
-
-China has a [multi-layered framework for standardisation of AI](https://cset.georgetown.edu/publication/artificial-intelligence-standardization-white-paper/).
-
-* **Level A - Foundations:**  Foundational standards include the four main categories of terminology, reference architecture, data, and testing and assessment. These standards supports the other parts in the standards system structure. 
-
-* **Level B - Platforms/support:** Supportive technology and product standards provide basic support for artificial intelligence software and hardware platform construction, algorithm model development, and artificial intelligence applications.
-Fundamental hardware and software platform standards mainly focus on intelligent chips, system software, development frameworks, etc., to provide infrastructure support for artificial intelligence. 
-
-* **Level C - Key technologies:** Key technology standards a cover topics like natural language processing, human-computer interaction, computer vision, biometric feature recognition, and VR/AR. These standards provide support for practical applications of AI. 
-
-* **Level D - Products and services:** Products/services standards cover 'intelligentized' products and new service models formed in AI technology fields.
-
-* **Level E - Application standard:** These standards focus on specific application areas, e.g. smart homes, smart manufacturing, smart healthcare, etc. 
-They focus on needs facing the specific industries, refining other parts of the standards to support the development of various industries. 
- 
-*  **Level F - Security/ethics:** These standards run through the other parts to establish a compliance system for AI. 
-
-
+# 2021 White Paper
 In 2021, China published a [white paper on Trusted artificial intelligence](http://www.caict.ac.cn/english/research/whitepapers/202110/P020211014399666967457.pdf).
 It highlights the need for regulations and law to guide AI development, and also describes the use of 3rd parties for evaluations and verifications.
 It is suggested that AI enterprises and insurance institutions can explore the insurance mechanism of AI product application, conduct quantitative assessment of risk accidents, provide risk compensation, and help improve the trusted AI ecosystem.
