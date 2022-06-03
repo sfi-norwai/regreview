@@ -37,3 +37,8 @@ Fundamental hardware and software platform standards mainly focus on intelligent
 They focus on needs facing the specific industries, refining other parts of the standards to support the development of various industries. 
  
 *  **Level F - Security/ethics:** These standards run through the other parts to establish a compliance system for AI. 
+
+
+In 2021, China published a [white paper on Trusted artificial intelligence](http://www.caict.ac.cn/english/research/whitepapers/202110/P020211014399666967457.pdf).
+It highlights the need for regulations and law to guide AI development, and also describes the use of 3rd parties for evaluations and verifications.
+It is suggested that AI enterprises and insurance institutions can explore the insurance mechanism of AI product application, conduct quantitative assessment of risk accidents, provide risk compensation, and help improve the trusted AI ecosystem.

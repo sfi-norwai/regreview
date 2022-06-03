@@ -116,8 +116,14 @@ TBD
 
 ### ISO/IEC TR 24372:2021, Information technology — Artificial intelligence (AI) — Overview of computational approaches for AI systems
 
-TBD (Meine)
+ISO/IEC TR 24372 describes the typical characteristics of AI systems (e.g. adaptable, explainable, discriminative) and their computational characteristics (e.g. data-based, knowledge-base, infrastructure-based). It describes two categories of computational approaches: knowledge-driven and data-driven.
+
+It describes selected algorithms and approaches related to: knowledge engineering and representation, logic and reasoning, machine learning, and metaheuristics.
 
 ### ISO/IEC TR 24030:2021, Information technology — Artificial intelligence (AI) — Use cases
 
-TBD (Meine)
+ISO/IEC TR 24030 provides a collection of use cases of artificial intelligence (AI)  applications in a variety of domains, such as: agriculture, digital marketing, education, energy, financial markets, healthcare, robotics, ICT, legal, logistics, manufacturing, public sector, security, and transportation.
+
+It aims to illustrate the applicability of the AI standardization work across a variety of application domains, and share the collected use cases in support of AI standardization work with external organizations and internal entities to foster collaboration.
+
+It also intends to help identify new technical requirements that may accelerate the development of AI technology.
