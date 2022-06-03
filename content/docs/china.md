@@ -6,6 +6,7 @@ Before it starts explaining its framework for standards-setting, the white paper
 After summarizing the existing AI standards and regulations, both locally and internationally, their structure of the AI standardization system is elucidated.
 
 The structure consists of six parts: foundation, platforms/support, key technology, products and services, applications, and security/ethics. These can be briefly elaborated as follows.
+
 * **Foundational standards** target mainly regularizing fundamentals of AI such as terminology, reference architecture, data, and testing and assessment.
 
 * The main focuses of the **platforms/support** component of these standards are big data, cloud computing, intelligent perception and connection, edge computing, smart chips, and AI platforms.

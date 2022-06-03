@@ -8,11 +8,12 @@ The major ISO/IEC standards related to AI are presented below.
 
 ### ISO/IEC 22989, Artificail Intelligence - Concepts and Terminology 
 
-TBD (Andreas,just one sentence?)
+This document provides standardized concepts and terminology to help artificial intelligence technology be better understood and adopted by a broad set of stakeholders. This document can be used in the development of other standards and in support of communications among diverse, interested parties/stakeholders.
 
 ### ISO/IEC 23053, Framework for Artificial Intelligence Systems Using Machine Learning
 
-TBD (Andreas) 
+This document aims to provide a framework for the description of AI systems that use ML. By establishing a common terminology and a common set of concepts for such systems, this document provides a basis for clear explanation of the systems and various considerations that apply to their engineering and to their use.
+The document describes machine learning systems (chapter 6), machine learning approaches (chapter 7), The machine learning pipeline (chapter 8) and the machine learning process (chapter 9). Annex A maps ISO/IEC 23053 data types to ISO/IEC 19944-1 data categories.
 
 
 ## Trustworthyness
@@ -136,3 +137,10 @@ ISO/IEC TR 24030 provides a collection of use cases of artificial intelligence (
 It aims to illustrate the applicability of the AI standardization work across a variety of application domains, and share the collected use cases in support of AI standardization work with external organizations and internal entities to foster collaboration.
 
 It also intends to help identify new technical requirements that may accelerate the development of AI technology.
+
+### ISO/IEC TR 29119-11:2020, Software and systems engineering — Software testing — Part 11: Guidelines on the testing of AI-based systems
+
+The testing of traditional systems is well-understood, but AI-based systems, which are becoming more prevalent and critical to our daily lives, introduce new challenges. This document has been created to introduce AI-based systems and provide guidelines on how they might be tested. 
+This document explains those characteristics which are specific to AI-based systems and explains the corresponding difficulties of specifying the acceptance criteria for such systems.
+
+This document presents the challenges of testing AI-based systems, the main challenge being the test oracle problem, whereby testers find it difficult to determine expected results for testing and therefore whether tests have passed or failed. It covers testing of these systems across the life cycle and gives guidelines on how AI-based systems in general can be tested using black-box approaches and introduces white-box testing specifically for neural networks. It describes options for the test environments and test scenarios used for testing AI-based systems.
