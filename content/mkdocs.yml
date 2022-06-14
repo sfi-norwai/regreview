@@ -6,6 +6,7 @@ nav:
   - 'Introduction': index.md
   - 'EU': eu.md
   - 'China': china.md
+  - 'US': us.md
   - 'UK': uk.md 
   - 'New Zealand': nz.md
   - 'ISO/IEC': iso.md
