@@ -32,7 +32,16 @@ The clause structure of ISO 31000:2018 is mirrored in this document and amended 
 
 ### ISO/IEC TR 24027:2021, Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making
 
-TBD (Andreas)
+Bias in an AI system can be described as performing some actions such as perception, observation, representation, prediction, or decision-making differently on certain objects, people, or groups compared to others. 
+
+Bias can be categorized as desired/intended bias and unintended/unwanted. The document **ISO/IEC TR 24027 helps you**,
+
+1. **understand from where the unintended bias is added to the AI systems:** potential sources of unwanted bias are human cognitive bias, data bias, and bias introduced by engineering decisions.
+
+2. **assessing bias and fairness:** AI systems are complex and can be difficult to understand, but still, there exist strategies for the identification of unwanted bias. One way to uncover evidence of unwanted bias is to assess the system’s outputs using one or more fairness metrics. The document presents several of such matricesmetrics.
+
+3. **treat bias-related vulnerabilities throughout the entire AI system lifecycle**, i.e., data collection, training, continual learning, design, testing, evaluation, and use.
+
 
 ### ISO/IEC TR 24028:2020, Information technology – Artificial intelligence – Overview of trustworthiness in artificial intelligence
  
