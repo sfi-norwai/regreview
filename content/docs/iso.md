@@ -20,7 +20,10 @@ The document describes machine learning systems (chapter 6), machine learning ap
 
 ### ISO/IEC PRF TR 24368, Information technology — Artificial intelligence — Overview of ethical and societal concerns
 
-TBD (Andreas)
+This document provides a high-level overview of AI ethical and societal concerns. Examples of ethical and societal concerns in AI include privacy and security breaches to discriminatory outcomes and impact on human autonomy. The values embedded in algorithms, as well as the choice of problems AI systems and applications are used for to address, can be intentionally or inadvertently shaped by developers’ and stakeholders’ own worldviews and cognitive bias. Ethical and social concerns may arise even if an AI system performs flawlessly from a technical perspective.
+
+The document describes ethical frameworks, human rights practices, and principles for responsible use of AI. Appendix A is informative and gives an overview and summary of principles for ethical AI from around the world.  Appendix B is informative and elaborates on ethical and societal concerns in several use cases.
+
 
 ### ISO/IEC CD 23894 Information Technology – artificial Intelligence – risk management
 
