@@ -7,10 +7,11 @@ The contents are organised in the following sections:
 
 * [**EU:**](eu) This section summarises the proposed EU AI act.
 * [**China:**](china) This section describes the principles for AI governance and standardisation framework in China.
+* [**US:**](us) TBD
 * [**UK:**](uk) This section descibes the UK roadmap to an effective AI assurance ecosystem.
 * [**New Zealand:**](nz) This section describes thye principles approach of the New Zealand government to AI governance. 
 * [**ISO/IEC:**](iso) This section describes important AI related ISO/IEC standards that are published or under development. 
-* [**IEEE:**](ieee) TBD
+* [**IEEE:**](ieee) This section describes IEEE standards related to AI.
 * [**OECD:**](oecd) TBD
 * [**DNV:**](dnv) TBD
 * [**Definitions:**](definitions) This section dicuss important definitions related to AI and assurance of AI.
